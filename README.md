@@ -16,7 +16,7 @@ Le site propose une vue d'ensemble des différentes filières (Génie Logiciel, 
 Voici un aperçu visuel de la page d'accueil de la plateforme :
 
 <p align="center">
-  <img src="./screenshot.png" alt="Capture d'écran de l'accueil de IT Orientation" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://github.com/FulbertDev-AI/IT-orientation.github.io/blob/main/it-orientation.png" alt="Capture d'écran de l'accueil de IT Orientation" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </p>
 
 ---
